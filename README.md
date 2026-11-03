@@ -30,7 +30,7 @@ Built with Python, FastAPI, SQLite, and JavaScript.
 - **[PULZIX](https://samykar.itch.io/pulzix)** — A timing game with Classic and Daily Challenge modes, reactive sound, and a free demo.
 - **[DON’T OPEN THE DOOR](https://github.com/SamYKarabacak/Portfolio/blob/main/projects/dont-open-the-door.md)** — Psychological horror built around an apartment, environmental interactions, and choices that carry through the story. In development at 0.1.28.
 
-Games are released under **BravenDev / SamYKar**.
+Games are credited to **BravenDev / SamYKar**.
 
 ## Research in progress
 
