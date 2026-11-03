@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
-<title id="title">BravenDev</title><desc id="desc">Desktop software, applied AI, and independent games by SamYKar.</desc>
+<title id="title">Sam (Yigit)</title><desc id="desc">Desktop software, applied AI, and independent games by SamYKar.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1729"/><stop offset="1" stop-color="#163750"/></linearGradient></defs>
 <rect width="1280" height="280" rx="18" fill="url(#bg)"/>
 <g fill="none" stroke="#4d7792" stroke-width="1" opacity=".32"><circle cx="1115" cy="140" r="76"/><circle cx="1115" cy="140" r="126"/><circle cx="1115" cy="140" r="184"/><path d="M895 140h385M1115 0v280"/></g>
 <circle cx="1039" cy="140" r="6" fill="#dcb77a"/><circle cx="1171" cy="253" r="4" fill="#7cbdcb"/>
 <rect x="54" y="59" width="5" height="162" rx="2.5" fill="#dcb77a"/>
 <text x="86" y="88" fill="#dcb77a" font-family="Arial, sans-serif" font-size="17" letter-spacing="4">SAMYKAR</text>
-<text x="82" y="156" fill="#f4f7fa" font-family="Arial, sans-serif" font-weight="700" font-size="61" letter-spacing="-1">BravenDev</text>
+<text x="82" y="156" fill="#f4f7fa" font-family="Arial, sans-serif" font-weight="700" font-size="61" letter-spacing="-1">Sam (Yigit)</text>
 <text x="86" y="204" fill="#bdd0df" font-family="Arial, sans-serif" font-size="23">Desktop software · Applied AI · Independent games</text>
 </svg>

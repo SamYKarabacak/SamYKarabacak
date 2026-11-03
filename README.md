@@ -1,6 +1,6 @@
-<p><img src="assets/banner.svg" alt="BravenDev — Desktop software, applied AI, and independent games" width="100%" /></p>
+<p><img src="assets/banner.svg" alt="Sam (Yigit) — Desktop software, applied AI, and independent games" width="100%" /></p>
 
-# SamYKar · BravenDev
+# Sam (Yigit)
 
 I build desktop applications, local AI tools, and games with **Python, JavaScript, and C++**. Most of my software runs locally, with an emphasis on useful workflows, clear interfaces, and keeping data on the user's computer.
 
@@ -30,7 +30,7 @@ Built with Python, FastAPI, SQLite, and JavaScript.
 - **[PULZIX](https://samykar.itch.io/pulzix)** — A timing game with Classic and Daily Challenge modes, reactive sound, and a free demo.
 - **[DON’T OPEN THE DOOR](https://github.com/SamYKarabacak/Portfolio/blob/main/projects/dont-open-the-door.md)** — Psychological horror built around an apartment, environmental interactions, and choices that carry through the story. In development at 0.1.28.
 
-Games are credited to **BravenDev / SamYKar**.
+Games are credited to **SamYKar**.
 
 ## Research in progress
 
